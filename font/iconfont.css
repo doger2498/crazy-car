@@ -1,10 +1,10 @@
 
 @font-face {font-family: "iconfont";
-  src: url('iconfont.eot?t=1492082966163'); /* IE9*/
-  src: url('iconfont.eot?t=1492082966163#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url('iconfont.woff?t=1492082966163') format('woff'), /* chrome, firefox */
-  url('iconfont.ttf?t=1492082966163') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('iconfont.svg?t=1492082966163#iconfont') format('svg'); /* iOS 4.1- */
+  src: url('iconfont.eot?t=1492341426398'); /* IE9*/
+  src: url('iconfont.eot?t=1492341426398#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('iconfont.woff?t=1492341426398') format('woff'), /* chrome, firefox */
+  url('iconfont.ttf?t=1492341426398') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1492341426398#iconfont') format('svg'); /* iOS 4.1- */
 }
 
 .iconfont {
@@ -40,6 +40,8 @@
 .icon-xialia-jiantou-copy-copy:before { content: "\e603"; }
 
 .icon-weixin:before { content: "\e67b"; }
+
+.icon-jiantou-copy:before { content: "\e606"; }
 
 .icon-erweima2:before { content: "\e62a"; }
 
