@@ -4,7 +4,7 @@ $('#dowebok').fullpage({
 //	menu: '#menu',
 //	continuousVertical: true
 	
-	'verticalCentered': false,//内容是否垂直居中
+//	'verticalCentered': false,//内容是否垂直居中
 //	'animateAnchor':true,
     'css3': true,
     'sectionsColor': ['#254875', '#00FF00', '#254587', '#695684'],//定义背景颜色
